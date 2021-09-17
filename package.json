@@ -1,0 +1,14 @@
+{
+  "name": "@eitanlees/learning-observable-plot-via-altair",
+  "main": "c5248dcc5ac84643@1430.js",
+  "version": "1430.0.0",
+  "homepage": "https://observablehq.com/@eitanlees/learning-observable-plot-via-altair",
+  "author": {
+    "name": "Eitan Lees",
+    "url": "https://observablehq.com/@eitanlees"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
